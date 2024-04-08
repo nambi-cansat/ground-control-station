@@ -494,8 +494,7 @@ class _MonitoringScreen2State extends State<MonitoringScreen2> {
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
                     Container(
-                      height: 364,
-                      width: 1100,
+                      height: 364,width: 1100,
                       margin: EdgeInsets.all(5.0),
                       padding: EdgeInsets.all(10.0),
                       decoration: BoxDecoration(
