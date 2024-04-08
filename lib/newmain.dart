@@ -664,7 +664,6 @@ class _MonitoringScreen2State extends State<MonitoringScreen2> {
   }
 
   Future<void> _saveAsCSV() async {
-
     final List<List<dynamic>> rows = [];
     final List<String> headers = [
       'MissionTime',
